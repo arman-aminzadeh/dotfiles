@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arman.aminzadeh@gmail.com
+	name = arman aminzadeh
